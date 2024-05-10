@@ -21,5 +21,6 @@ export const projects = [
         "cta": "NOT AVAILABLE YET",
         "cover": "/coldopen_cover.png",
         "front": "/statue.png"
-    }
+    },
+    
 ]
